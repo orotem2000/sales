@@ -1,0 +1,53 @@
+body, html {
+  height: 100%;
+  margin-top: 15px;
+}
+
+body {
+ text-align: left;
+
+ background-color: #98C5B3 ;
+ color: white
+ font-family:Ariel;
+ 
+ font-size:150%;
+ 
+}
+
+.mar {
+  text-align: center;
+  margin-top: 20px
+}
+.mar1 {
+  margin-left: 95px;
+  margin-top: 0.1px;
+  font-weight: bold;
+  font-size: 110%
+}
+
+
+.tips {
+	color:black   ;
+	
+	margin-left: 75px;
+	font-size: 90%
+	}
+
+.TXT {
+font-size:80%;
+ text-align: left;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("sales1.png");
+
+  /* Full height */
+  height: 110%;
+
+  /* Center and scale the image nicely */
+  background-position: 88% 49%;
+  margin-right: 80px;
+  background-repeat: no-repeat;
+  background-size: 43%;
+}
